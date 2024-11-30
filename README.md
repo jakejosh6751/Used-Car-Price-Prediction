@@ -10,17 +10,25 @@ A data analysis and machine learning project that predicts the price of used car
 - Build a linear regression model to predict prices based on key attributes.
 - Provide actionable insights for used car buyers and sellers.
 
-#### 1.2 Technologies Used
+#### 1.2 Deliverables
+- 
+
+#### 1.3 Technologies Used
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 - Microsoft PowerPoint
+
+### 2. Data Description
+
+
+
+
+
 
 
 ### 3. Key Features
 - End-to-End Workflow: Includes data collection, cleaning, analysis, model building, and evaluation.
 - Business Context: Insightful recommendations for used car dealerships and buyers.
 - Reusable Code: Well-documented and modular codebase for ease of use.
-
-
 
 
 
