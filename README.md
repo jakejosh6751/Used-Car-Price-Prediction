@@ -18,9 +18,8 @@ A data analysis and machine learning project that predicts the price of used car
 - Microsoft PowerPoint
 
 ### 2. Data Description
-#### 2.1 Data Sources
-- Description of the dataset used:
-- Machine logs or simulated downtime data.
+#### 2.1 Data Collection
+- kaggle open data sets: ...link...
 - Parameters: timestamps, machine IDs, downtime durations, and reasons for downtime.
 
 #### 2.2 Data Fields
@@ -29,7 +28,7 @@ Field | Description
 ----------|----------
 model | category of toyota
 
-#### 2.3 Data Cleaning
+#### 2.3 Data Cleaning and Preprocessing
 - Steps for handling missing, inconsistent, or duplicate data.
 
 #### 2.4 Feature Engineering
