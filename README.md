@@ -13,7 +13,7 @@ A data analysis and machine learning project that predicts the price of used car
 #### 1.2 Deliverables
 - 
 
-#### 1.3 Tools & Technologies Used
+#### 1.3 Tools & Technologies
 - Programming Language: Python
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - GUI: Jupyter Notebook
