@@ -11,7 +11,7 @@ A data analysis and machine learning project that predicts the price of used car
 - Provide actionable insights for used car buyers and sellers.
 
 #### 1.2 Technologies Used
-- Python (Pandas, Numpy, Matplotlib, Seaborn, Sci-kit learn)
+- Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn)
 - Microsoft PowerPoint
 
 
