@@ -13,9 +13,11 @@ A data analysis and machine learning project that predicts the price of used car
 #### 1.2 Deliverables
 - 
 
-#### 1.3 Technologies Used
-- Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
-- Microsoft PowerPoint
+#### 1.3 Tools & Technologies Used
+- Programming Language: Python
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- GUI: Jupyter Notebook
+- Report: Microsoft PowerPoint
 
 ### 2. Data Description
 #### 2.1 Data Collection
@@ -28,22 +30,27 @@ Field | Description
 ----------|----------
 model | category of toyota
 
-#### 2.3 Data Cleaning and Preprocessing
+#### 2.3 Data Cleaning & Preprocessing
 - Steps for handling missing, inconsistent, or duplicate data.
+- Encode categorical variables (e.g., brand, fuel type).
 
-#### 2.4 Feature Engineering
-- Data Transformations.
+### 3. Exploratory Data Analysis (EDA)
+- Analyze data distributions and correlations.
+- Identify outliers and their impact.
+- Use visualizations to highlight trends and patterns.
 
+### 4 Feature Engineering
+- Transform features for better prediction (e.g., log transformations for skewed data).
+- Select relevant attributes based on correlation analysis.
 
+### 5. Model Development
+- Train a linear regression model.
+- Evaluate model performance (e.g., R², RMSE).
+- Interpret coefficients to explain feature importance.
 
-
-
-
-### 3. Key Features
-- End-to-End Workflow: Includes data collection, cleaning, analysis, model building, and evaluation.
-- Business Context: Insightful recommendations for used car dealerships and buyers.
-- Reusable Code: Well-documented and modular codebase for ease of use.
-
+### 6. Insights and Recommendations
+- Key takeaways for dealerships to optimize pricing strategies.
+- Tips for buyers to identify fair prices.
 
 
 
