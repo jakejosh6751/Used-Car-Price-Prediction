@@ -21,10 +21,8 @@
 ### 2. Data Description
 #### 2.1 Data Collection
 - kaggle open data sets: ...link...
-- Parameters: timestamps, machine IDs, downtime durations, and reasons for downtime.
 
 #### 2.2 Data Fields
-
 Field | Description
 ----------|----------
 model | category of toyota
