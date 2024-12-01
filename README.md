@@ -8,7 +8,9 @@
 - Provide actionable insights for used car buyers and sellers.
 
 #### 1.2 Deliverables
-- 
+- Linear regression model performance summary report.
+- Python script exploring key price drivers.
+- Recommendations for sellers or buyers to maximize returns in cars dealership.
 
 #### 1.3 Tools & Technologies
 - Programming Language: Python
