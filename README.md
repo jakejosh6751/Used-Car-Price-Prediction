@@ -10,7 +10,7 @@
 #### 1.2 Deliverables
 - Linear regression model performance summary report.
 - Python script exploring key price drivers.
-- Recommendations for sellers or buyers to maximize returns in cars dealership.
+- Recommendations for sellers to maximize returns and buyers to ensure fair prices in cars dealership.
 
 #### 1.3 Tools & Technologies
 - Programming Language: Python
