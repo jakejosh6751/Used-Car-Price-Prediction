@@ -13,10 +13,9 @@
 - Recommendations for sellers to maximize returns and buyers to ensure fair prices in cars dealership.
 
 #### 1.3 Tools & Technologies
-- Programming Language: Python
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- GUI: Jupyter Notebook
-- Report: Microsoft PowerPoint
+- Python (pandas, numPy, matplotlib, seaborn, scikit-learn)
+- Jupyter Notebook
+- Microsoft PowerPoint
 
 ### 2. Data Description
 #### 2.1 Data Collection
