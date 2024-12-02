@@ -25,7 +25,7 @@ To keep this analysis simple, only toyota models are used. However, the process 
 - Microsoft PowerPoint
 
 ### Data Source
-- kaggle open data sets: ...link...
+- kaggle open data sets: [data set](https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes?select=toyota.csv)
 
 ### Python Script
 
