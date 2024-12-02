@@ -12,9 +12,10 @@ Building accurate models helps buyers and sellers make fair decisions, supports 
 - Provide actionable insights for used car buyers and sellers.
 
 #### 1.2 Deliverables
-- Linear regression model performance summary report.
-- Python script exploring key price drivers.
-- Recommendations for sellers to maximize returns and buyers to ensure fair prices in cars dealership.
+- Summary report highlighting model performance and key insights including influential factors affecting car prices.
+- Trained linear regression model.
+- Python script for estimating car prices base on input features.
+- Clean, commented code with a guide for replicating the analysis and using the model.
 
 #### 1.3 Tools & Technologies
 - Python (pandas, numPy, matplotlib, seaborn, scikit-learn)
