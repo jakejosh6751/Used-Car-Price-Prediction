@@ -6,6 +6,8 @@ Estimating used car prices involves analyzing features like mileage, age, fuel t
 
 Building accurate models helps buyers and sellers make fair decisions, supports dealerships in pricing strategies, and promotes transparency in the used car market.
 
+To keep this analysis simple, only toyota models are used. However, the process can be extended to accomodate other products when required.
+
 #### 1.1 Objective
 - Analyze factors influencing used car prices.
 - Build a linear regression model to predict prices base on key attributes.
@@ -15,7 +17,7 @@ Building accurate models helps buyers and sellers make fair decisions, supports 
 - Summary report highlighting model performance and key insights including influential factors affecting car prices.
 - Trained linear regression model.
 - Python script for estimating car prices base on input features.
-- Clean, commented code with a guide for replicating the analysis and using the model.
+- Clean, commented code with a guide for replicating the analysis using the model.
 
 #### 1.3 Tools & Technologies
 - Python (pandas, numPy, matplotlib, seaborn, scikit-learn)
