@@ -22,9 +22,9 @@
 - kaggle open data sets: ...link...
 
 #### 2.2 Data Fields
-Field | Description
-----------|----------
-model | category of toyota
+| Field | Description |
+|-|-|
+| model | category of toyota |
 
 #### 2.3 Data Cleaning & Preprocessing
 - Steps for handling missing, inconsistent, or duplicate data.
