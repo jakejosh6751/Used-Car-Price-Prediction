@@ -2,6 +2,10 @@
 ## A Linear Regression Model to Estimate Prices of Used Cars
 
 ### 1. Project Overview
+Estimating used car prices involves analyzing features like mileage, age, fuel type, engine size, and overall condition. Prices vary significantly based on these attributes, making price predictions essential.
+
+Building accurate models helps buyers and sellers make fair decisions, supports dealerships in pricing strategies, and promotes transparency in the used car market.
+
 #### 1.1 Objective
 - Analyze factors influencing used car prices.
 - Build a linear regression model to predict prices based on key attributes.
