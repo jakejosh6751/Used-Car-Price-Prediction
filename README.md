@@ -8,7 +8,7 @@ Building accurate models helps buyers and sellers make fair decisions, supports 
 
 #### 1.1 Objective
 - Analyze factors influencing used car prices.
-- Build a linear regression model to predict prices based on key attributes.
+- Build a linear regression model to predict prices base on key attributes.
 - Provide actionable insights for used car buyers and sellers.
 
 #### 1.2 Deliverables
