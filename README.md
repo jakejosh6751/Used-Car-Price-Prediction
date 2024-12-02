@@ -18,7 +18,7 @@
 - Microsoft PowerPoint
 
 ### 2. Data Preparation
-#### 2.1 Data Collection
+#### 2.1 Data Source
 - kaggle open data sets: ...link...
 
 #### 2.2 Data Fields
@@ -45,8 +45,12 @@
 - Interpret coefficients to explain feature importance.
 
 ### 6. Insights and Recommendations
-- Key takeaways for dealerships to optimize pricing strategies.
+#### 6.1 Insights
+- key takeaways for dealerships to optimize pricing strategies.
 - Tips for buyers to identify fair prices.
 
+#### 6.2 Recommendations
+#### 6.3 Report Summary
+#### 6.4 Python Script
 
 
