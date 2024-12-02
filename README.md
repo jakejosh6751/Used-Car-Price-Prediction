@@ -17,7 +17,7 @@
 - Jupyter Notebook
 - Microsoft PowerPoint
 
-### 2. Data Description
+### 2. Data Preparation
 #### 2.1 Data Collection
 - kaggle open data sets: ...link...
 
