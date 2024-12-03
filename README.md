@@ -3,6 +3,7 @@
 
 ### Report Summary:
 ![used car price prediction_1.jpg](https://github.com/jakejosh6751/Used-Car-Price-Prediction/blob/main/used%20car%20price%20prediction_1.jpg)
+
 ![used car price prediction_2.jpg](https://github.com/jakejosh6751/Used-Car-Price-Prediction/blob/main/used%20car%20price%20prediction_2.jpg)
 
 ### Python Script (full documentation):
